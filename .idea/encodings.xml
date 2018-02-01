@@ -8,5 +8,8 @@
     <file url="file://$PROJECT_DIR$/pay-order-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pay-order-facade" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pay-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pay-scheduler-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pay-support" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pay-wechat-manager" charset="UTF-8" />
   </component>
 </project>

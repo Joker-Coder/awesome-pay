@@ -12,6 +12,9 @@
         <module name="pay-order-api" />
         <module name="pay-order-facade" />
         <module name="pay-order-service" />
+        <module name="pay-scheduler-manager" />
+        <module name="pay-support" />
+        <module name="pay-wechat-manager" />
         <module name="payorderservice" />
       </profile>
     </annotationProcessing>
@@ -23,6 +26,9 @@
       <module name="pay-order-api" target="1.5" />
       <module name="pay-order-facade" target="1.5" />
       <module name="pay-order-service" target="1.5" />
+      <module name="pay-scheduler-manager" target="1.5" />
+      <module name="pay-support" target="1.5" />
+      <module name="pay-wechat-manager" target="1.5" />
       <module name="payorderservice" target="1.5" />
     </bytecodeTargetLevel>
   </component>

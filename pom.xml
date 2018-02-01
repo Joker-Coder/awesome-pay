@@ -27,6 +27,9 @@
         <module>pay-order-api</module>
         <module>pay-order-facade</module>
         <module>pay-order-service</module>
+        <module>pay-support</module>
+        <module>pay-scheduler-manager</module>
+        <module>pay-wechat-manager</module>
     </modules>
 
     <dependencyManagement>

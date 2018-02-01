@@ -9,6 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/pay-order-api/pay-order-api.iml" filepath="$PROJECT_DIR$/pay-order-api/pay-order-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/pay-order-facade/pay-order-facade.iml" filepath="$PROJECT_DIR$/pay-order-facade/pay-order-facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/pay-order-service/pay-order-service.iml" filepath="$PROJECT_DIR$/pay-order-service/pay-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-scheduler-manager/pay-scheduler-manager.iml" filepath="$PROJECT_DIR$/pay-scheduler-manager/pay-scheduler-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-support/pay-support.iml" filepath="$PROJECT_DIR$/pay-support/pay-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-wechat-manager/pay-wechat-manager.iml" filepath="$PROJECT_DIR$/pay-wechat-manager/pay-wechat-manager.iml" />
     </modules>
   </component>
 </project>
