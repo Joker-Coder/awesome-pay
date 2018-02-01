@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pay-common" />
+        <module name="pay-dao" />
+        <module name="pay-domain" />
+        <module name="pay-order-api" />
+        <module name="pay-order-facade" />
+        <module name="pay-order-service" />
+        <module name="payorderservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="awesome-pay" target="1.5" />
+      <module name="pay-common" target="1.5" />
+      <module name="pay-dao" target="1.5" />
+      <module name="pay-domain" target="1.5" />
+      <module name="pay-order-api" target="1.5" />
+      <module name="pay-order-facade" target="1.5" />
+      <module name="pay-order-service" target="1.5" />
+      <module name="payorderservice" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
